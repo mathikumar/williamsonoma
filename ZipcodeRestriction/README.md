@@ -66,3 +66,6 @@ After merging, the minimum number of zipcode ranges are:
 [94133,94133] [94200,94399] 
 indhumathiashok@target % 
 ```
+
+![alt text](https://github.com/mathikumar/williamsonoma/blob/main/ZipcodeRestriction/Screen%20Shot%202020-10-28%20at%2012.14.51%20AM.png)
+  
