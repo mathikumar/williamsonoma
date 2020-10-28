@@ -50,6 +50,7 @@ mvn clean package
 cd target
 java -jar ZipCodeRestrictor.jar
 ```
+[Build Maven Project](https://github.com/mathikumar/williamsonoma/blob/main/ZipcodeRestriction/Screen%20Shot%202020-10-28%20at%2012.05.06%20AM.png)
 
 ```
 indhumathiashok@ZipcodeRestriction % cd target
